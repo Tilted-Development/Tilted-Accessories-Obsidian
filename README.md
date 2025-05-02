@@ -61,3 +61,5 @@ Thank you for taking your **valuable** time to read this! With this plugin, you 
 
 Happy linking!  
 — **Tilted Development Ltd.**
+
+*© 2025 Tilted Development Ltd.*
