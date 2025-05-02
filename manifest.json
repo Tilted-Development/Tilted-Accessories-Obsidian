@@ -3,8 +3,9 @@
   "name": "Tilted Accessories",
   "version": "1.0.1",
   "minAppVersion": "0.12.0",
-  "description": "Obsidian just lost the term 'Crying'",
+  "description": "Some minor improvements",
   "author": "Tilted Development Ltd.",
   "authorUrl": "http://tilted.42web.io",
-  "main": "main.js"
+  "main": "main.js",
+  "isDesktopOnly":  false
 }
